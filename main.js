@@ -18,7 +18,8 @@ console.log(output); // should print 'value'
 
 
 
-Function getValue = 
+Function getValue = (obj,key)
+
 
 var obj = { 'key': 'value
 };
